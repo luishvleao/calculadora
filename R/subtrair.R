@@ -1,0 +1,15 @@
+#'Função para subtrair
+#'
+#'Esta função serve para subtrair dois números
+#'
+#'@param a Um número
+#'@param b Outro número
+#'
+#'@examples
+#'subtrair(7,3)
+#'
+#'
+#'@export
+subtrair<-function(a,b){
+a-b
+}
